@@ -1,0 +1,47 @@
+
+
+
+
+h4{
+    color: white;
+}
+nav{
+    background-color: rgba(25, 0, 255, 0.418);
+
+}
+.nav-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+}
+.links a{
+    color: white;
+    text-decoration: none;
+     
+
+}
+.header{
+    background-image: url("./is\ \(11\).jpg");
+    height:500px
+}
+h3{
+    color: white;
+}
+p{
+    color:white;
+}
+li{color: white;}
+
+<br>{color:white;}
+
+.footer{
+    color:white;
+background-color: rgba(0, 0, 255, 0.651);
+text-align: center;
+height: 30px;
+padding: 20px;
+
+}
